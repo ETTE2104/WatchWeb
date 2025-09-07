@@ -16,29 +16,6 @@ It was created for learning front-end development concepts such as responsive de
 
 ---
 
-## 🗂️ Project Structure  
-
-WatchesWeb/
-│
-├── index.html # Homepage
-├── products.html # Product listing page
-├── cart.html # Shopping cart page (optional)
-│
-├── /assets
-│ ├── /images # Images of watches, logos, banners
-│ └── /icons # SVG or PNG icons
-│
-├── /css
-│ └── style.css # Main stylesheet
-│
-├── /js
-│ └── script.js # Main JavaScript for interactivity
-│
-└── README.md # Project documentation
-
-
----
-
 ## ⚙️ Technologies Used  
 - **HTML5** – structure  
 - **CSS3** – styling & responsive design  
